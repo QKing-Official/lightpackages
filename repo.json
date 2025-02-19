@@ -1,7 +1,5 @@
 {
-    "name": "The official Lightpack packages repository",
-    "description": "Packages that aren't in the main repository",
-    "author": "QKing",
-    "version": "1.0.0",
+    "name": "LightpackOfficial",
+    "description": "The official Lightpack packages repository",
     "url": "https://github.com/QKing-Official/lightpackages/packages"
 }
