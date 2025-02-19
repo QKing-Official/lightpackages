@@ -1,5 +1,4 @@
 {
-    "name": "LightpackOfficial",
-    "description": "The official Lightpack packages repository",
-    "url": "https://github.com/QKing-Official/lightpackages/packages"
+    "name": "LightPackages Repository",
+    "url": "https://raw.githubusercontent.com/QKing-Official/lightpackages/main/packages"
 }
